@@ -1,0 +1,13 @@
+.name{ width:500px; height:320px;position:relative } 
+.name{ background:#98FB98 }
+.photo{ width:160px; height:160px; border-radius:50%; overflow:hidden ;border-width:2px;border-color: pink;border-style: solid;} 
+.photo{ position:absolute; top:50%; left:50px; margin-top:-80px }
+.text1{ position:absolute; top:125px; left:300px;font-size:200%;}
+.text2{ position:absolute; top:170px; left:250px;font-size:larger;}
+
+.button01{width:500px;height:80px;background:#E0FFFF;border-bottom:2px solid #ccc;}
+.button02{width:500px;height:80px;background:#E0FFFF;border-bottom:2px solid #ccc;}
+.button03{width:500px;height:80px;background:#E0FFFF;border-bottom:2px solid #ccc;}
+.button04{width:500px;height:80px;background:#E0FFFF}
+
+.text{position:relative;top:20px;left:80px;font-size:200%}
